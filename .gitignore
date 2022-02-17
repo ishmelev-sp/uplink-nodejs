@@ -1,0 +1,6 @@
+node_modules
+build
+dist
+uplink_*.h
+test/testcase.js
+secret.txt
